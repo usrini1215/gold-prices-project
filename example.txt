@@ -3,6 +3,7 @@ Ushas changes - testing my new branch
 Ushas test
 Trying this for our project
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Hi Kruti is trying this for our project
 =======
@@ -11,3 +12,9 @@ Hi Kruti is trying this for our project
 
 
 Hello hello
+=======
+---Daniel
+>>>>>>> ad97d7b02a4055167674d10a95737fd26b8b8513
+
+
+Hello hello again!
